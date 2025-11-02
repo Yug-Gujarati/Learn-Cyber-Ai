@@ -8,7 +8,7 @@ class AIChatProvider with ChangeNotifier {
   final List<ChatMessage> _messages = [];
   bool _isLoading = false;
 
-  String geminiApiKey = "AIzaSyCJqqPs7sedEz2Bn-cqEEltvbMinD6R8mE";
+  String geminiApiKey = "";
 
   List<ChatMessage> get messages => _messages;
   bool get isLoading => _isLoading;

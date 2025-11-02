@@ -1,0 +1,63 @@
+{
+  "title": "Why Cybersecurity is Important",
+  "image": "",
+  "key": "whyCybersecurityIsImportant",
+  "order": 3,
+  "content": [
+    {
+      "type": "heading",
+      "text": "Why is Cybersecurity Important?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity is important because governments, corporations, and medical organizations collect, process, and store huge amounts of sensitive data—such as military, financial, and personal information. If this private information is exposed, it can lead to serious negative consequences."
+    },
+
+    {
+      "type": "heading",
+      "text": "A Brief History: How Cybersecurity Began"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 1972, when the internet was just starting (called ARPANET at the time), a test virus named Creeper was created—and then another program called Reaper was made to remove it. This early experiment showed why digital security was needed and helped start what we now call cybersecurity."
+    },
+
+    {
+      "type": "heading",
+      "text": "Rising Cyber Threats: How Hackers Exploit Weak Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybercriminals constantly look for ways to exploit weaknesses in systems, networks, and personal devices. Weak passwords, outdated software, and unsecured networks give them easy access. They use advanced tactics like phishing, ransomware, and social engineering to steal data, disrupt systems, or demand money."
+    },
+    {
+      "type": "point",
+      "text": "AI-driven threats make cyber attacks even more powerful, as bots can now breach systems automatically."
+    },
+    {
+      "type": "example",
+      "text": "While shopping online, we often save details like email, address, and card info for convenience. Later, we might receive a fake email claiming a special offer from a well-known site like Flipkart or Amazon. When we enter our saved details to claim the offer, hackers can steal that data and misuse it, causing financial loss."
+    },
+
+    {
+      "type": "heading",
+      "text": "Consequences of Cyber Attacks for Businesses and Individuals"
+    },
+    {
+      "type": "paragraph",
+      "text": "A successful cyber attack can have devastating effects, both financially and reputationally. For businesses, a data breach can lead to massive financial losses, legal penalties, and loss of customer trust. Small businesses are especially vulnerable, as they often lack strong security measures."
+    },
+    {
+      "type": "point",
+      "text": "Individuals can suffer from identity theft, financial fraud, and personal data leaks."
+    },
+    {
+      "type": "point",
+      "text": "Cyber attacks can drain bank accounts, expose private information, or even lock users out of their own devices unless a ransom is paid."
+    },
+    {
+      "type": "point",
+      "text": "The consequences can cause emotional distress, financial instability, and long-term reputational harm."
+    }
+  ]
+}

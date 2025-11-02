@@ -1,0 +1,72 @@
+{
+  "title": "Applications of Cybersecurity",
+  "image": "",
+  "key": "applicationOfCybersecurity",
+  "order": 0,
+  "content": [
+    {
+      "type": "heading",
+      "text": "1. DDoS Security"
+    },
+
+    {
+      "type": "paragraph",
+      "text": "DDoS (Distributed Denial of Service) attacks occur when hackers use multiple devices to send huge amounts of traffic to a server, making it slow or crash. Cybersecurity helps by providing DDoS mitigation services that divert traffic to other servers and keep websites running smoothly."
+    },
+
+    {
+      "type": "heading",
+      "text": "2. Web Firewalls"
+    },
+
+    {
+      "type": "paragraph",
+      "text": "Web application firewalls monitor incoming and outgoing traffic on a server. They detect and block fake or malicious traffic automatically, reducing the risk of attacks and protecting normal users’ experience."
+    },
+
+    {
+      "type": "heading",
+      "text": "3. Bots Detection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hackers use bots to flood servers with fake requests. Cybersecurity systems detect these bots and log them out, ensuring real users can access services without interruptions."
+    },
+
+    {
+      "type": "heading",
+      "text": "4. Antivirus and Antimalware"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity develops antivirus and antimalware software to protect computers and devices from digital attacks, malware, and unauthorized access. These tools also help maintain network security and firewalls for all connected devices."
+    },
+
+    {
+      "type": "heading",
+      "text": "5. Threat Management Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "Threat management systems detect vulnerabilities and bugs in software that hackers could exploit. They fix these issues automatically, improve system performance, and provide users with control over security threats."
+    },
+
+    {
+      "type": "heading",
+      "text": "6. Critical Systems Protection"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity protects critical servers and large networks from attacks. It monitors applications in real-time, checks the safety of servers and networks, and ensures users follow high-security standards."
+    },
+
+    {
+      "type": "heading",
+      "text": "7. Rules and Regulations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity helps create rules for users and authorities to follow while using the Internet. These rules improve network safety, give authorities the power to handle security issues, and optimize online systems for everyone’s protection."
+    }
+  ]
+}

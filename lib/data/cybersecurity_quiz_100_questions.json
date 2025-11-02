@@ -1,0 +1,593 @@
+{
+  "levels": [
+    {
+      "level": 1,
+      "title": "Level 1",
+      "description": "Basic cybersecurity awareness and safety concepts",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is cybersecurity?",
+          "options": ["Protecting systems and data", "Fixing printers", "Deleting files", "Building computers"],
+          "answer": "Protecting systems and data"
+        },
+        {
+          "question": "Which one is an example of personal data?",
+          "options": ["Your name", "A chair", "A tree", "A car model"],
+          "answer": "Your name"
+        },
+        {
+          "question": "What does a password do?",
+          "options": ["Protects your account", "Makes the computer faster", "Stores data", "Deletes viruses"],
+          "answer": "Protects your account"
+        },
+        {
+          "question": "Which of these should you NOT share online?",
+          "options": ["Bank details", "Hobbies", "Favorite color", "Pet’s name"],
+          "answer": "Bank details"
+        },
+        {
+          "question": "What is phishing?",
+          "options": ["A fake message to steal data", "Cleaning files", "Speeding up your PC", "Changing passwords"],
+          "answer": "A fake message to steal data"
+        },
+        {
+          "question": "Which one is a strong password?",
+          "options": ["MyPass@2024", "123456", "password", "qwerty"],
+          "answer": "MyPass@2024"
+        },
+        {
+          "question": "What is malware?",
+          "options": ["Malicious software", "Good software", "A type of file", "An antivirus"],
+          "answer": "Malicious software"
+        },
+        {
+          "question": "What does antivirus software do?",
+          "options": ["Detects and removes malware", "Creates malware", "Saves passwords", "Formats drives"],
+          "answer": "Detects and removes malware"
+        },
+        {
+          "question": "Why should you lock your phone or PC?",
+          "options": ["To prevent unauthorized access", "To make it charge faster", "To delete old apps", "To install updates"],
+          "answer": "To prevent unauthorized access"
+        },
+        {
+          "question": "What does VPN stand for?",
+          "options": ["Virtual Private Network", "Verified Public Node", "Variable Protocol Network", "Virtual Proxy Name"],
+          "answer": "Virtual Private Network"
+        }
+      ]
+    },
+
+    {
+      "level": 2,
+      "title": "Level 2",
+      "description": "Understanding threats and online safety",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is the main purpose of a firewall?",
+          "options": ["Block unauthorized access", "Increase speed", "Store data", "Encrypt files"],
+          "answer": "Block unauthorized access"
+        },
+        {
+          "question": "Which of these is a cyber threat?",
+          "options": ["Phishing email", "Software update", "File backup", "Password change"],
+          "answer": "Phishing email"
+        },
+        {
+          "question": "Which one is NOT a safe practice online?",
+          "options": ["Clicking unknown links", "Using strong passwords", "Updating software", "Avoiding public Wi-Fi"],
+          "answer": "Clicking unknown links"
+        },
+        {
+          "question": "Which of the following can help protect your computer?",
+          "options": ["Antivirus", "Pirated software", "Unknown USB", "Pop-up ads"],
+          "answer": "Antivirus"
+        },
+        {
+          "question": "What is ransomware?",
+          "options": ["Malware that locks data until payment", "A network tool", "An antivirus", "A data cleaner"],
+          "answer": "Malware that locks data until payment"
+        },
+        {
+          "question": "What is social engineering?",
+          "options": ["Manipulating people to reveal info", "Fixing software bugs", "Designing networks", "Writing code"],
+          "answer": "Manipulating people to reveal info"
+        },
+        {
+          "question": "What should you do before downloading apps?",
+          "options": ["Check reviews and permissions", "Download anything", "Ignore ratings", "Disable antivirus"],
+          "answer": "Check reviews and permissions"
+        },
+        {
+          "question": "Which is a sign of a phishing email?",
+          "options": ["Urgent message asking for details", "Email from a friend", "Invoice confirmation", "Password reset you requested"],
+          "answer": "Urgent message asking for details"
+        },
+        {
+          "question": "What is the safest place to store passwords?",
+          "options": ["Password manager", "Notes app", "Text file", "Shared folder"],
+          "answer": "Password manager"
+        },
+        {
+          "question": "Why is software updating important?",
+          "options": ["Fixes security flaws", "Makes system slower", "Deletes data", "Removes all settings"],
+          "answer": "Fixes security flaws"
+        }
+      ]
+    },
+
+    {
+      "level": 3,
+      "title": "Level 3",
+      "description": "Intermediate cybersecurity practices",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What does HTTPS stand for?",
+          "options": ["Hyper Text Transfer Protocol Secure", "High Transfer Text Protocol System", "Hyperlink Transfer Type Protocol", "Home Transfer Type Secure"],
+          "answer": "Hyper Text Transfer Protocol Secure"
+        },
+        {
+          "question": "Which symbol in a URL shows the site is secure?",
+          "options": ["Lock icon", "Warning triangle", "Exclamation mark", "Red cross"],
+          "answer": "Lock icon"
+        },
+        {
+          "question": "What does two-factor authentication (2FA) do?",
+          "options": ["Adds an extra layer of security", "Removes passwords", "Speeds up login", "Hides your IP"],
+          "answer": "Adds an extra layer of security"
+        },
+        {
+          "question": "What is an IP address?",
+          "options": ["Unique number of a device", "A password type", "An antivirus", "A file name"],
+          "answer": "Unique number of a device"
+        },
+        {
+          "question": "What is a Trojan horse?",
+          "options": ["Malware disguised as useful software", "A secure program", "Firewall", "Password manager"],
+          "answer": "Malware disguised as useful software"
+        },
+        {
+          "question": "What is a DDoS attack?",
+          "options": ["Overloading a server with traffic", "Encrypting data", "Deleting malware", "Sending phishing emails"],
+          "answer": "Overloading a server with traffic"
+        },
+        {
+          "question": "What is a security patch?",
+          "options": ["Software fix for a vulnerability", "New virus", "Firewall rule", "Antivirus key"],
+          "answer": "Software fix for a vulnerability"
+        },
+        {
+          "question": "Which of these is a type of malware?",
+          "options": ["Spyware", "Backup", "Patch", "Firewall"],
+          "answer": "Spyware"
+        },
+        {
+          "question": "What does encryption do?",
+          "options": ["Converts data into unreadable form", "Deletes data", "Compresses files", "Copies information"],
+          "answer": "Converts data into unreadable form"
+        },
+        {
+          "question": "Which one helps in detecting intrusions?",
+          "options": ["IDS (Intrusion Detection System)", "Text editor", "Search engine", "File manager"],
+          "answer": "IDS (Intrusion Detection System)"
+        }
+      ]
+    },
+
+    {
+      "level": 4,
+      "title": "Level 4",
+      "description": "Network security and malware types",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is packet sniffing?",
+          "options": ["Monitoring network traffic", "Encrypting data", "Deleting logs", "Installing antivirus"],
+          "answer": "Monitoring network traffic"
+        },
+        {
+          "question": "What is the main purpose of a VPN?",
+          "options": ["Hide your IP and encrypt data", "Speed up downloads", "Store files", "Fix software bugs"],
+          "answer": "Hide your IP and encrypt data"
+        },
+        {
+          "question": "What is spyware?",
+          "options": ["Software that secretly monitors users", "Antivirus software", "Network protection", "Data backup tool"],
+          "answer": "Software that secretly monitors users"
+        },
+        {
+          "question": "What is a keylogger used for?",
+          "options": ["Recording keystrokes", "Encrypting files", "Blocking ads", "Speeding up boot time"],
+          "answer": "Recording keystrokes"
+        },
+        {
+          "question": "What is the DMZ in networking?",
+          "options": ["A buffer zone between internal and external networks", "A database zone", "A backup area", "A password zone"],
+          "answer": "A buffer zone between internal and external networks"
+        },
+        {
+          "question": "What is port scanning?",
+          "options": ["Checking open ports on a system", "Closing all ports", "Encrypting data", "Erasing firewalls"],
+          "answer": "Checking open ports on a system"
+        },
+        {
+          "question": "What is the role of an IDS?",
+          "options": ["Detect unauthorized access", "Backup files", "Install updates", "Manage networks"],
+          "answer": "Detect unauthorized access"
+        },
+        {
+          "question": "What is the most common social engineering attack?",
+          "options": ["Phishing", "DDoS", "Brute force", "Port scanning"],
+          "answer": "Phishing"
+        },
+        {
+          "question": "What is brute-force attack?",
+          "options": ["Trying every password combination", "Deleting all data", "Encrypting emails", "Monitoring network logs"],
+          "answer": "Trying every password combination"
+        },
+        {
+          "question": "What is sandboxing used for?",
+          "options": ["Testing code safely", "Encrypting data", "Blocking ports", "Resetting networks"],
+          "answer": "Testing code safely"
+        }
+      ]
+    },
+
+    {
+      "level": 5,
+      "title": "Level 5",
+      "description": "Intermediate: deeper understanding of threats, attacks, and defenses",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is ethical hacking?",
+          "options": ["Testing systems for vulnerabilities legally", "Stealing data secretly", "Making viruses", "Blocking websites"],
+          "answer": "Testing systems for vulnerabilities legally"
+        },
+        {
+          "question": "What is penetration testing?",
+          "options": ["Simulated cyberattack to test security", "Installing antivirus", "Monitoring emails", "Encrypting hard drives"],
+          "answer": "Simulated cyberattack to test security"
+        },
+        {
+          "question": "Which organization develops cybersecurity standards?",
+          "options": ["NIST", "NASA", "WHO", "UNESCO"],
+          "answer": "NIST"
+        },
+        {
+          "question": "What is a zero-day vulnerability?",
+          "options": ["A flaw unknown to the vendor", "A virus removed in one day", "A software patch", "A firewall rule"],
+          "answer": "A flaw unknown to the vendor"
+        },
+        {
+          "question": "Which tool is used for network scanning?",
+          "options": ["Nmap", "Word", "Excel", "PowerPoint"],
+          "answer": "Nmap"
+        },
+        {
+          "question": "What is a botnet?",
+          "options": ["A network of infected computers", "A secure VPN", "A firewall system", "A password tool"],
+          "answer": "A network of infected computers"
+        },
+        {
+          "question": "What is the CIA Triad in cybersecurity?",
+          "options": ["Confidentiality, Integrity, Availability", "Control, Information, Access", "Cyber, Internet, Attack", "Code, Input, Access"],
+          "answer": "Confidentiality, Integrity, Availability"
+        },
+        {
+          "question": "Which of these helps prevent brute-force attacks?",
+          "options": ["Account lockout policy", "Unlimited login attempts", "Weak passwords", "No firewall"],
+          "answer": "Account lockout policy"
+        },
+        {
+          "question": "What is SQL Injection?",
+          "options": ["Inserting malicious code into a database query", "A firewall rule", "A password technique", "A malware update"],
+          "answer": "Inserting malicious code into a database query"
+        },
+        {
+          "question": "What is an insider threat?",
+          "options": ["An employee causing security harm", "A phishing attack", "External hacking", "Network overload"],
+          "answer": "An employee causing security harm"
+        }
+      ]
+    },
+
+    {
+      "level": 6,
+      "title": "Level 6",
+      "description": "Advanced: Security layers, attacks, and monitoring",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What does IDS stand for?",
+          "options": ["Intrusion Detection System", "Internal Data Server", "Internet Device Shield", "Input Data Scanner"],
+          "answer": "Intrusion Detection System"
+        },
+        {
+          "question": "What does IPS stand for?",
+          "options": ["Intrusion Prevention System", "Internet Privacy Setup", "Internal Process Service", "Input Protocol Scan"],
+          "answer": "Intrusion Prevention System"
+        },
+        {
+          "question": "Which tool is commonly used for packet analysis?",
+          "options": ["Wireshark", "Photoshop", "Excel", "Postman"],
+          "answer": "Wireshark"
+        },
+        {
+          "question": "What is a honeypot in cybersecurity?",
+          "options": ["A decoy system to trap attackers", "A password tool", "A virus", "An email filter"],
+          "answer": "A decoy system to trap attackers"
+        },
+        {
+          "question": "What is cryptography?",
+          "options": ["Securing data through encryption", "Deleting files", "Scanning networks", "Fixing bugs"],
+          "answer": "Securing data through encryption"
+        },
+        {
+          "question": "Which protocol is used for secure web communication?",
+          "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+          "answer": "HTTPS"
+        },
+        {
+          "question": "Which attack floods a network with excessive traffic?",
+          "options": ["DDoS", "SQL Injection", "Phishing", "Spyware"],
+          "answer": "DDoS"
+        },
+        {
+          "question": "What is digital forensics?",
+          "options": ["Analyzing digital evidence of cybercrimes", "Making websites", "Testing networks", "Encrypting files"],
+          "answer": "Analyzing digital evidence of cybercrimes"
+        },
+        {
+          "question": "What is SSL?",
+          "options": ["Secure Sockets Layer", "Software Security Log", "Safe System Lock", "System Server Link"],
+          "answer": "Secure Sockets Layer"
+        },
+        {
+          "question": "What is phishing protection software used for?",
+          "options": ["Detecting and blocking fake websites", "Encrypting drives", "Backing up data", "Deleting malware"],
+          "answer": "Detecting and blocking fake websites"
+        }
+      ]
+    },
+
+    {
+      "level": 7,
+      "title": "Level 7",
+      "description": "Expert level: cryptography, forensics, and exploit understanding",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What does RSA stand for in encryption?",
+          "options": ["Rivest-Shamir-Adleman", "Rapid Secure Algorithm", "Random Security Access", "Remote Server Authentication"],
+          "answer": "Rivest-Shamir-Adleman"
+        },
+        {
+          "question": "What is hashing used for?",
+          "options": ["Verifying data integrity", "Encrypting traffic", "Deleting malware", "Creating backups"],
+          "answer": "Verifying data integrity"
+        },
+        {
+          "question": "Which algorithm is used for hashing passwords?",
+          "options": ["SHA-256", "AES", "RSA", "MD5 only"],
+          "answer": "SHA-256"
+        },
+        {
+          "question": "Which encryption is symmetric?",
+          "options": ["AES", "RSA", "ECC", "DSA"],
+          "answer": "AES"
+        },
+        {
+          "question": "What is steganography?",
+          "options": ["Hiding data inside media files", "Encrypting emails", "Blocking malware", "Detecting viruses"],
+          "answer": "Hiding data inside media files"
+        },
+        {
+          "question": "Which of the following uses public and private keys?",
+          "options": ["Asymmetric encryption", "Symmetric encryption", "Hashing", "Data compression"],
+          "answer": "Asymmetric encryption"
+        },
+        {
+          "question": "What is penetration testing primarily used for?",
+          "options": ["Finding vulnerabilities before hackers", "Monitoring employees", "Encrypting drives", "Deleting temporary files"],
+          "answer": "Finding vulnerabilities before hackers"
+        },
+        {
+          "question": "What is a rootkit?",
+          "options": ["Software that hides malicious processes", "Antivirus tool", "Backup program", "Firewall component"],
+          "answer": "Software that hides malicious processes"
+        },
+        {
+          "question": "What does a digital certificate do?",
+          "options": ["Verifies website authenticity", "Encrypts drives", "Deletes logs", "Creates backups"],
+          "answer": "Verifies website authenticity"
+        },
+        {
+          "question": "What is the difference between hashing and encryption?",
+          "options": ["Hashing is one-way; encryption is reversible", "Both are the same", "Encryption is one-way", "Hashing stores passwords in plain text"],
+          "answer": "Hashing is one-way; encryption is reversible"
+        }
+      ]
+    },
+
+    {
+      "level": 8,
+      "title": "Level 8",
+      "description": "Advanced defense techniques and network protocols",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is a buffer overflow?",
+          "options": ["When a program writes outside its memory space", "When CPU overheats", "When internet drops", "When passwords expire"],
+          "answer": "When a program writes outside its memory space"
+        },
+        {
+          "question": "What is a security audit?",
+          "options": ["Systematic evaluation of security posture", "Deleting viruses", "Running backups", "Checking Wi-Fi speed"],
+          "answer": "Systematic evaluation of security posture"
+        },
+        {
+          "question": "What is ARP spoofing?",
+          "options": ["Faking a device’s MAC address", "Encrypting traffic", "Stealing files", "Deleting caches"],
+          "answer": "Faking a device’s MAC address"
+        },
+        {
+          "question": "Which layer of the OSI model deals with encryption?",
+          "options": ["Presentation layer", "Network layer", "Session layer", "Physical layer"],
+          "answer": "Presentation layer"
+        },
+        {
+          "question": "What does SOC stand for?",
+          "options": ["Security Operations Center", "System Output Controller", "Secure Object Code", "Software Optimization Core"],
+          "answer": "Security Operations Center"
+        },
+        {
+          "question": "What is log analysis used for?",
+          "options": ["Identifying suspicious activities", "Compressing data", "Speeding networks", "Encrypting disks"],
+          "answer": "Identifying suspicious activities"
+        },
+        {
+          "question": "What is the purpose of patch management?",
+          "options": ["Fixing security vulnerabilities", "Deleting old files", "Encrypting disks", "Speeding downloads"],
+          "answer": "Fixing security vulnerabilities"
+        },
+        {
+          "question": "What is the role of SIEM?",
+          "options": ["Security Information and Event Management", "Software Integration and Error Monitoring", "System Internal Event Manager", "Security Input Event Mechanism"],
+          "answer": "Security Information and Event Management"
+        },
+        {
+          "question": "What is threat intelligence?",
+          "options": ["Information about potential attacks", "Firewall software", "Virus database", "VPN connection"],
+          "answer": "Information about potential attacks"
+        },
+        {
+          "question": "What does MITM attack stand for?",
+          "options": ["Man-In-The-Middle", "Machine Internal Memory", "Main Internet Module", "Malware Injection Management"],
+          "answer": "Man-In-The-Middle"
+        }
+      ]
+    },
+
+    {
+      "level": 9,
+      "title": "Level 9",
+      "description": "Expert: cyber defense, threat hunting, and risk management",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is threat hunting?",
+          "options": ["Proactively searching for undetected threats", "Installing antivirus", "Running backups", "Patching software"],
+          "answer": "Proactively searching for undetected threats"
+        },
+        {
+          "question": "What does DFIR stand for?",
+          "options": ["Digital Forensics and Incident Response", "Data File Input Report", "Device Failure Inspection Routine", "Defensive Firewall Integration Rule"],
+          "answer": "Digital Forensics and Incident Response"
+        },
+        {
+          "question": "What is red team vs blue team?",
+          "options": ["Attackers vs defenders in simulation", "Developers vs users", "Managers vs engineers", "Analysts vs admins"],
+          "answer": "Attackers vs defenders in simulation"
+        },
+        {
+          "question": "What is an Advanced Persistent Threat (APT)?",
+          "options": ["Long-term targeted cyberattack", "Short virus", "Firewall bug", "Spam email"],
+          "answer": "Long-term targeted cyberattack"
+        },
+        {
+          "question": "Which framework is used for incident response?",
+          "options": ["NIST 800-61", "ISO 9001", "GDPR", "SOC 2"],
+          "answer": "NIST 800-61"
+        },
+        {
+          "question": "What is vulnerability management?",
+          "options": ["Identifying and fixing system weaknesses", "Installing software", "Writing code", "Encrypting logs"],
+          "answer": "Identifying and fixing system weaknesses"
+        },
+        {
+          "question": "What is lateral movement in cyber attacks?",
+          "options": ["Attacker moving within network systems", "Virus replication", "Firewall setup", "Data encryption"],
+          "answer": "Attacker moving within network systems"
+        },
+        {
+          "question": "What is an IOC?",
+          "options": ["Indicator of Compromise", "Input Output Channel", "Internal Operation Code", "Image of Cyberattack"],
+          "answer": "Indicator of Compromise"
+        },
+        {
+          "question": "What is the MITRE ATT&CK framework?",
+          "options": ["Knowledge base of attacker tactics and techniques", "A penetration tool", "A VPN system", "Encryption software"],
+          "answer": "Knowledge base of attacker tactics and techniques"
+        },
+        {
+          "question": "What is the role of risk assessment?",
+          "options": ["Evaluating potential impact of threats", "Encrypting passwords", "Updating firmware", "Blocking websites"],
+          "answer": "Evaluating potential impact of threats"
+        }
+      ]
+    },
+
+    {
+      "level": 10,
+      "title": "Cyber Security Quiz - Level 10",
+      "description": "Master level: governance, frameworks, and cyber strategy",
+      "category": "cybersecurity",
+      "questions": [
+        {
+          "question": "What is ISO 27001?",
+          "options": ["Information Security Management Standard", "Encryption Algorithm", "Network Protocol", "Firewall Policy"],
+          "answer": "Information Security Management Standard"
+        },
+        {
+          "question": "What is GDPR focused on?",
+          "options": ["Data privacy and protection", "Network speed", "Software licensing", "Cyber insurance"],
+          "answer": "Data privacy and protection"
+        },
+        {
+          "question": "What is the principle of least privilege?",
+          "options": ["Users get only necessary access", "Everyone gets admin rights", "All files are encrypted", "No one can log in"],
+          "answer": "Users get only necessary access"
+        },
+        {
+          "question": "What is cybersecurity governance?",
+          "options": ["Strategic management of security policies", "Installing antivirus", "Writing code", "Deleting old data"],
+          "answer": "Strategic management of security policies"
+        },
+        {
+          "question": "What is SOC 2 compliance?",
+          "options": ["Security standard for service organizations", "Software optimization check", "Data encryption rule", "Firewall certification"],
+          "answer": "Security standard for service organizations"
+        },
+        {
+          "question": "What does IAM stand for?",
+          "options": ["Identity and Access Management", "Internal Account Module", "Internet Access Monitor", "Infrastructure Application Model"],
+          "answer": "Identity and Access Management"
+        },
+        {
+          "question": "What is cyber resilience?",
+          "options": ["Ability to recover from cyber incidents", "Fireproof hardware", "High network bandwidth", "Fast password rotation"],
+          "answer": "Ability to recover from cyber incidents"
+        },
+        {
+          "question": "What does zero trust mean?",
+          "options": ["Never trust, always verify", "Trust all users by default", "Encrypt only admins’ data", "Disable all firewalls"],
+          "answer": "Never trust, always verify"
+        },
+        {
+          "question": "What is data classification?",
+          "options": ["Labeling data based on sensitivity", "Deleting temporary files", "Encrypting disks", "Compressing data"],
+          "answer": "Labeling data based on sensitivity"
+        },
+        {
+          "question": "What is a security policy?",
+          "options": ["Set of rules for protecting information", "Firewall rule", "Backup procedure", "Network layout"],
+          "answer": "Set of rules for protecting information"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "379091877737",
+    "project_id": "learningcyber-e4175",
+    "storage_bucket": "learningcyber-e4175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379091877737:android:893fd1e7e3f28800adc7f8",
+        "android_client_info": {
+          "package_name": "com.yug.learningCyber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsdL0RVkYz0Q_2CgjNJNPSCk8mHTo5c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

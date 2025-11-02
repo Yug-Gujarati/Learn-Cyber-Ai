@@ -1,0 +1,160 @@
+{
+  "title": "Cyber Attacks — Definition, Why They Matter & Common Types",
+  "image": "",
+  "key": "cyberAttacksAndTypes",
+  "content": [
+    {
+      "type": "heading",
+      "text": "What is Cybersecurity?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity is a set of procedures and strategies focused on protecting sensitive information, computer systems, networks, and software applications from digital attacks. Cyber attacks is a broad term covering many different threats; common goals include altering systems or data, abusing resources, gaining unauthorized access to sensitive information, disrupting business operations, or extorting money via ransomware."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attacks are becoming more inventive and complex, which makes defending against them more challenging for organizations and security teams."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to Accenture's 2019 'Cost of Cybercrime' study, there was a 67% increase in security attacks over five years, and the global cost of cybercrime was estimated in the trillions of USD over the coming years."
+    },
+
+    {
+      "type": "heading",
+      "text": "What is a Cyberattack?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A cyberattack is an intentional attempt by individuals or groups to compromise systems, networks, or devices to disrupt operations, steal data, or cause damage. Attacks take many forms (malware, phishing, ransomware, DoS), target software or hardware vulnerabilities, and can produce significant financial loss, data breaches, and operational disruption."
+    },
+    {
+      "type": "paragraph",
+      "text": "Protection requires strong security controls, regular updates, and user education to preserve data confidentiality and system integrity."
+    },
+
+    {
+      "type": "heading",
+      "text": "Common Cyber Attacks"
+    },
+
+    {
+      "type": "heading",
+      "text": "1. Phishing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Phishing is a fraudulent technique that uses deceptive emails or messages that appear to come from legitimate sources. The attack exploits human trust and curiosity to trick victims into revealing credentials, clicking malicious links, or submitting sensitive data on fake websites."
+    },
+    {
+      "type": "point",
+      "text": "Attackers often impersonate people or organizations and send mass messages to increase the chance that some recipients will fall for the scam."
+    },
+    {
+      "type": "point",
+      "text": "Typical outcome: stolen credentials, financial loss, or account takeover."
+    },
+
+    {
+      "type": "heading",
+      "text": "2. Social Engineering Attacks"
+    },
+    {
+      "type": "image",
+      "path": "introduction/3.png"
+    },
+    {
+      "type": "paragraph",
+      "text": "Social engineering uses psychological manipulation to trick people into breaking security practices or revealing confidential information. It can occur anywhere human interaction exists and often involves researching the target, building trust, and exploiting that trust to gain access or information."
+    },
+    {
+      "type": "point",
+      "text": "Common forms include pretexting, baiting, tailgating, spear-phishing, and impersonation."
+    },
+    {
+      "type": "point",
+      "text": "Example (baiting): attackers leave malware-infected USB sticks in public areas labeled with convincing names (e.g., 'Payroll 2025') so curious staff plug them into corporate machines."
+    },
+
+    {
+      "type": "heading",
+      "text": "3. Ransomware"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ransomware is malware that encrypts files on a victim's system, rendering data and systems unusable until a ransom is paid. It is one of the most damaging and pervasive cyber attack types."
+    },
+    {
+      "type": "point",
+      "text": "Attack flow: malware is delivered, files are encrypted, and attackers demand payment (often in cryptocurrency) for a decryption key."
+    },
+    {
+      "type": "point",
+      "text": "Notable examples include WannaCry and Maze, which caused widespread disruption and financial loss."
+    },
+
+    {
+      "type": "heading",
+      "text": "4. Cryptocurrency Hijacking (Cryptojacking)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As cryptocurrency mining became profitable, attackers began hijacking victims' computers or browsers to run mining code. This uses victims' CPU/GPU cycles to mine coins for the attacker, degrading performance and increasing power usage."
+    },
+    {
+      "type": "point",
+      "text": "Two main delivery methods: (1) tricking users to install mining code (via phishing or malicious downloads) and (2) injecting mining scripts into websites or ads so code runs in visitors' browsers without installing anything locally."
+    },
+    {
+      "type": "point",
+      "text": "Some cryptomining malware can self-propagate across networks, making detection and removal harder."
+    },
+
+    {
+      "type": "heading",
+      "text": "5. Botnets Attacks"
+    },
+    {
+      "type": "image",
+      "path": "introduction/4.jpg"
+    },
+    {
+      "type": "paragraph",
+      "text": "A botnet is a network of compromised devices (often called 'zombies') under attacker control. Botnets are used to carry out large-scale malicious activities by coordinating many devices simultaneously."
+    },
+    {
+      "type": "point",
+      "text": "Botnet activities include distributed denial-of-service (DDoS) attacks, credential stuffing, web application attacks to steal data, and providing remote access for further exploitation."
+    },
+    {
+      "type": "point",
+      "text": "Attackers often sell or lease access to botnets, enabling other criminals to run spam campaigns, DDoS campaigns, or other attacks."
+    },
+
+    {
+      "type": "heading",
+      "text": "Why a 'one-size-fits-all' approach fails"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cyber attacks vary widely in technique, target, and motivation. A defensive approach that works for one class of attack (e.g., endpoint antivirus) may not stop another (e.g., sophisticated spear-phishing or supply-chain attacks). Effective defense requires layered security, risk-based planning, tailored controls, and continuous monitoring."
+    },
+
+    {
+      "type": "heading",
+      "text": "Key Takeaways"
+    },
+    {
+      "type": "point",
+      "text": "Cyber attacks are intentional, evolving, and can target people, devices, software, and networks."
+    },
+    {
+      "type": "point",
+      "text": "Common attack types include phishing, social engineering, ransomware, cryptojacking, and botnets."
+    },
+    {
+      "type": "point",
+      "text": "Robust protection needs multiple layers: technical controls, policies, updates, and regular user training."
+    }
+  ]
+}

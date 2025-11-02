@@ -1,0 +1,135 @@
+{
+  "title": "Key Applications of Cybersecurity in Daily Life",
+  "image": "",
+  "key": "keyApplicationsOfCyberSecurityInDailyLife",
+  "order": 1,
+  "content": [
+    {
+      "type": "heading",
+      "text": "1. Protecting Personal Information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity helps keep personal information like social security numbers, addresses, and bank details safe from hackers. This reduces the risk of identity theft and unauthorized access to accounts."
+    },
+
+    {
+      "type": "heading",
+      "text": "2. Securing Online Transactions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Millions of people shop and bank online every day. Cybersecurity ensures these transactions are safe by encrypting data and using secure protocols like HTTPS. This protects users from fraud and financial loss."
+    },
+
+    {
+      "type": "heading",
+      "text": "3. Safe Internet Browsing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity tools like antivirus software, firewalls, and secure browsers protect users from malware, phishing attacks, and unsafe websites, providing a safe and smooth browsing experience."
+    },
+
+    {
+      "type": "heading",
+      "text": "4. Protecting Devices and Smart Home Systems"
+    },
+    {
+      "type": "paragraph",
+      "text": "Smart devices like phones, smart TVs, and IoT gadgets can be hacked if not protected. Using strong passwords, device encryption, and keeping software updated helps prevent unauthorized access."
+    },
+
+    {
+      "type": "heading",
+      "text": "5. Email Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emails are a common target for cyber attacks. Cybersecurity tools filter suspicious emails, check sender authenticity, and encrypt messages to prevent malware, phishing, and data breaches."
+    },
+
+    {
+      "type": "heading",
+      "text": "6. Social Media Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Social media platforms often store personal data, making them targets for hackers. Using strong passwords, enabling two-factor authentication, and adjusting privacy settings help protect your accounts."
+    },
+
+    {
+      "type": "heading",
+      "text": "7. Securing Work-from-Home Environments"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remote work is common, so home offices need cybersecurity. Using VPNs, company-issued devices, and strict access controls protects corporate data and ensures business continuity."
+    },
+
+    {
+      "type": "heading",
+      "text": "8. Child Online Safety"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity helps protect children from cyberbullying, inappropriate content, and online threats. Tools like parental controls, monitoring software, and teaching safe online habits are essential."
+    },
+
+    {
+      "type": "heading",
+      "text": "9. Common Cybersecurity Threats"
+    },
+    {
+      "type": "subheading",
+      "text": "Illegal or Fake Websites"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hackers create fake websites that may contain malware, spyware, or ransomware. Visiting these sites can infect your device or steal personal information."
+    },
+    {
+      "type": "point",
+      "text": "Always verify websites before downloading files or programs."
+    },
+
+    {
+      "type": "subheading",
+      "text": "File Sharing Platforms"
+    },
+    {
+      "type": "paragraph",
+      "text": "File sharing can spread malware if files are infected. Hackers may use shared files to access personal data."
+    },
+    {
+      "type": "point",
+      "text": "Only download files from trusted sources."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Emails"
+    },
+    {
+      "type": "paragraph",
+      "text": "Emails from unknown sources may carry viruses, spyware, ransomware, or phishing links. Clicking on these can infect your device or steal data."
+    },
+    {
+      "type": "point",
+      "text": "Do not open suspicious emails or attachments."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Phishing Attacks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Phishing sends fraudulent emails or messages to trick users into installing malware or sharing sensitive information."
+    },
+    {
+      "type": "point",
+      "text": "Always check links carefully and never enter passwords on suspicious websites."
+    }
+  ]
+}

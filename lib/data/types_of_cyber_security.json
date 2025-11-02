@@ -1,0 +1,162 @@
+{
+  "title": "Types of Cybersecurity",
+  "image": "",
+  "key": "typesOfCyberSecurity",
+  "order": 1,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity has seven main types. Each type protects systems, data, or networks in a different way. Here’s an easy explanation for beginners:"
+    },
+    {
+      "type": "heading",
+      "text": "1. Network Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "This type protects computer networks from hackers and online attacks. It makes sure that only the right people can enter the network and data is safe while moving across the internet."
+    },
+    {
+      "type": "point",
+      "text": "Tools like Firewalls, VPNs, and Intrusion Detection Systems (IDS) are used to stop unwanted access."
+    },
+    {
+      "type": "point",
+      "text": "Public Wi-Fi is risky because attackers can spy on your activity. Using a VPN makes your connection safer."
+    },
+
+    {
+      "type": "heading",
+      "text": "2. Application Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "This focuses on keeping apps and software safe from hackers. Apps can have bugs or weaknesses that attackers try to use. Application security fixes these problems and keeps your personal data safe."
+    },
+    {
+      "type": "point",
+      "text": "Developers use secure coding, regular updates, and app firewalls to protect apps."
+    },
+    {
+      "type": "point",
+      "text": "Only download apps from trusted stores like Google Play or Apple App Store. Avoid unknown APK files from websites."
+    },
+    {
+      "type": "point",
+      "text": "Some apps may secretly collect your personal data, so always check app permissions before installing."
+    },
+
+    {
+      "type": "heading",
+      "text": "3. Information or Data Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "This type protects sensitive information such as passwords, bank details, or personal files from being stolen, changed, or deleted by attackers."
+    },
+    {
+      "type": "point",
+      "text": "Encryption turns data into unreadable code so only the right people can read it."
+    },
+    {
+      "type": "point",
+      "text": "Access controls (like passwords, biometrics, or OTPs) stop unauthorized users from viewing data."
+    },
+    {
+      "type": "point",
+      "text": "Security awareness is important—users should know about phishing emails, social engineering, and safe online habits."
+    },
+
+    {
+      "type": "heading",
+      "text": "4. Cloud Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cloud security protects data and apps stored on cloud platforms like AWS, Google Cloud, or Azure. Since many people and businesses now use cloud storage, strong protection is needed."
+    },
+    {
+      "type": "point",
+      "text": "Cloud providers give tools to protect your files, ensure backups, and manage who can access them."
+    },
+    {
+      "type": "point",
+      "text": "Free storage is limited; for more space and security, users often pay for services."
+    },
+    {
+      "type": "point",
+      "text": "Always set up strong passwords and enable two-factor authentication for cloud accounts."
+    },
+
+    {
+      "type": "heading",
+      "text": "5. Endpoint Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "Endpoints are devices like computers, phones, and IoT gadgets. Hackers often target them because they are entry points to a network. Endpoint security protects each device individually."
+    },
+    {
+      "type": "point",
+      "text": "Antivirus software scans and removes malware like viruses, trojans, and ransomware."
+    },
+    {
+      "type": "point",
+      "text": "Firewalls block harmful data before it enters your device."
+    },
+    {
+      "type": "point",
+      "text": "Regular software updates fix weaknesses and make devices harder to hack."
+    },
+
+    {
+      "type": "heading",
+      "text": "6. Operational Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "This type is about how an organization manages and protects its data. It focuses on people, policies, and processes to prevent data leaks."
+    },
+    {
+      "type": "point",
+      "text": "Access controls: Only the right employees should have access to sensitive systems."
+    },
+    {
+      "type": "point",
+      "text": "Risk management: Companies regularly check for security risks and fix them."
+    },
+    {
+      "type": "point",
+      "text": "Employee training: Workers are taught how to avoid phishing, use strong passwords, and keep data safe."
+    },
+    {
+      "type": "point",
+      "text": "Monitoring: Tools like SIEM track suspicious activity and respond to threats quickly."
+    },
+
+    {
+      "type": "heading",
+      "text": "7. Internet of Things (IoT) Security"
+    },
+    {
+      "type": "paragraph",
+      "text": "IoT devices include smart home gadgets, fitness trackers, industrial sensors, and even medical devices. If not secured, hackers can use them to enter networks and steal information."
+    },
+    {
+      "type": "point",
+      "text": "Device authentication and encryption keep data safe between devices and servers."
+    },
+    {
+      "type": "point",
+      "text": "Firmware updates are important to fix security issues in IoT gadgets."
+    },
+    {
+      "type": "point",
+      "text": "Network segmentation keeps IoT devices separate from important systems, limiting damage if one is hacked."
+    },
+    {
+      "type": "point",
+      "text": "Following IoT security standards like Zero Trust helps improve safety."
+    }
+  ]
+}

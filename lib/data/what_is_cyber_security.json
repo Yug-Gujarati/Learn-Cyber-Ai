@@ -1,0 +1,105 @@
+{
+  "title": "What is Cyber Security",
+  "image": "",
+  "key": "whatIsCyberSecurity",
+  "order": 0,
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Cyber security means protecting computers, phones, servers, and online systems from hackers and harmful software. The goal is to stop attacks that try to steal, change, or destroy important data, or that try to shut down services people need."
+    },
+    {
+      "type": "image",
+      "path": "introduction/1.png"
+    },
+
+    {
+      "type": "heading",
+      "text": "The main purpose of Cyber Security is to:"
+    },
+    {
+      "type": "point",
+      "text": "Find and fix weaknesses in systems before hackers can use them."
+    },
+    {
+      "type": "point",
+      "text": "Stop unauthorized people from accessing private data."
+    },
+    {
+      "type": "point",
+      "text": "Protect devices and networks from viruses, malware, and online threats."
+    },
+    {
+      "type": "point",
+      "text": "Keep information safe, accurate, and always available when needed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Cybersecurity is not just about using software like antivirus. It also means learning safe habits, such as not clicking on suspicious links, creating strong passwords, and updating your apps regularly. Practicing good cybersecurity keeps your personal data private and ensures a safe online experience. Sometimes, cybersecurity is also called Information Security (INFOSEC) or System Security."
+    },
+
+    {
+      "type": "heading",
+      "text": "Common Cyber Attacks You Should Know"
+    },
+
+    {
+      "type": "image",
+      "path": "introduction/2.png"
+    },
+
+    {
+      "type": "subheading",
+      "text": "Phishing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Phishing happens when hackers pretend to be a trusted person or company to trick you into giving away passwords or banking details. This often comes as fake emails, SMS messages, or websites that look real. Example: A fake bank email asking you to ‘verify your account’ by entering your password."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Malware"
+    },
+    {
+      "type": "paragraph",
+      "text": "Malware means 'malicious software' like viruses, worms, trojans, and ransomware. Once inside your device, malware can steal data, lock your files, or spy on your activity."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Ransomware"
+    },
+    {
+      "type": "paragraph",
+      "text": "This type of attack locks your files and asks you to pay money (a ransom) to get them back. Even if you pay, there’s no guarantee the hacker will unlock your files."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Distributed Denial of Service (DDoS)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this attack, hackers overload a website or server with too much traffic so it becomes slow or shuts down. Think of it like thousands of fake cars blocking a road so real cars cannot pass."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Man-in-the-Middle (MITM)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, a hacker secretly places themselves between you and the website or service you’re using. They can spy on your messages or even change the information being sent. Using public Wi-Fi without a VPN can make you vulnerable to this attack."
+    },
+
+    {
+      "type": "subheading",
+      "text": "Password Attacks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hackers try to guess or steal your password using methods like brute force (trying thousands of combinations), or by stealing leaked password lists. Strong and unique passwords with 2FA (Two-Factor Authentication) make you safer."
+    }
+  ]
+}
